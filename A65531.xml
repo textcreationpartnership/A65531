@@ -1,0 +1,647 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ancilla calligraphiæ or The handmaid to fair writing being an essey [sic] of the pen and graver. Performed for private divertisment and to please some particular friends by Thomas Weston gent alij multa persiciunt nos nonnulla conamur</title>
+            <author>Weston, Thomas, gent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 31 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65531</idno>
+            <idno type="STC">Wing W1484</idno>
+            <idno type="STC">ESTC R218936</idno>
+            <idno type="EEBO-CITATION">99830487</idno>
+            <idno type="PROQUEST">99830487</idno>
+            <idno type="VID">34939</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65531)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34939)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2023:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ancilla calligraphiæ or The handmaid to fair writing being an essey [sic] of the pen and graver. Performed for private divertisment and to please some particular friends by Thomas Weston gent alij multa persiciunt nos nonnulla conamur</title>
+                  <author>Weston, Thomas, gent.</author>
+                  <author>White, Robert, 1645-1703, engraver.</author>
+                  <author>Sturt, John, 1658-1730, engraver.</author>
+                  <author>Elder, William, fl. 1680-1700, engraver.</author>
+               </titleStmt>
+               <extent>[29] leaves : port.  </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1682?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Engraved throughout; some leaves variously signed, Jo. Sturt, Elder, R. White.</note>
+                  <note>First leaf = portrait of author.</note>
+                  <note>Reproduction of the original at the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Penmanship --  Early works to 1800.</term>
+               <term>Copybooks --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="engraved_title_page">
+            <pb facs="tcp:34939:1" rendition="simple:additions"/>
+            <p>Ancilla Calligraphiae OR The Handmaid to Fair Writing Being an Eſſey of the Pen and Graver.</p>
+            <p>Performed for Private divertisment and to pleaſe some particular Friends BY THOMAS WESTON Gent</p>
+            <q xml:lang="lat">Alij multa Perficiunt Nos nonnulla Conamur</q>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:34939:2"/>
+            <pb facs="tcp:34939:3"/>
+            <p>
+               <figure>
+                  <figDesc>portrait</figDesc>
+                  <head>THO. WESTON.</head>
+                  <figure>
+                     <figDesc>blazon of the Weston family</figDesc>
+                  </figure>
+                  <byline>R White ſculp: 1682</byline>
+               </figure>
+            </p>
+            <pb facs="tcp:34939:4" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="petition_for_license">
+            <pb facs="tcp:34939:5"/>
+            <head>To the Kings most Excel<hi rend="sup">t</hi> Ma<hi rend="sup">tie</hi>: The humble peticon of Tho: Weston Humbly Sheweth</head>
+            <p>That your Peticoner having Compoſed and Written a Book of Copies, for his own private conveniency, And to accomodate ſome particular Friends And being now inportuned by ſeveral perſons, to make the ſame Publike for y<hi rend="sup">e</hi> common benefit of young Learners in this excellent Art</p>
+            <p>Humbly Implores a Grant of your. Ma:<hi rend="sup">ties</hi> most gratious Permiſion and Priviledge, to Publish and Print y<hi rend="sup">e</hi> Same<g ref="char:punc">▪</g>
+            </p>
+            <p>And your Peticoner shall humbly pray &amp;c</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:34939:6"/>
+            <p>ILLUSTRISSIMO PRINCIPI RUPERTO Comiti Palatino Rheni Duci Bavariae et Cumbriae Castri Regalis Windsoris Conſtabulario et Gubernatori Locumtenenti Comitatum Berks &amp; Surrey &amp;<hi rend="sup">c</hi>.</p>
+            <p>Hoc in Arte Scriptoria Tentamen imperfectum Submiſso cultu DDD Tho: Weston</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:34939:7"/>
+            <head>TO THE READER</head>
+            <p>BEING neither Master nor Professor of Writing<g ref="char:punc">▪</g> I may be Cenſur'd as an impertinent Intruder into an other mans Provinc<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by pub<g ref="char:EOLhyphen"/>lishing these my unpollish'd Essayes I did not purpose at first either a Book or a Publication: but have been prevaild with herein beyond my primitive intention. As I have had Divertion &amp; Delight in composing, if any on<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> shall receive Pleasure or Profit in perusing or immitating these imperfect Ideas, it will afford a Satiſfaction Beyond imagination to y<hi rend="sup">e</hi> Author of y<hi rend="sup">em</hi>.</p>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:34939:8"/>
+            <head>
+               <q xml:lang="lat">Nil Penna Sed Vsus</q>
+            </head>
+            <head>
+               <figure>
+                  <figDesc>depiction of a right hand holding a quill pen, having written the author's name, "Weston"</figDesc>
+               </figure>
+            </head>
+            <byline>Weston</byline>
+            <lg>
+               <l>The Pen in this Position doth command</l>
+               <l>With great facilitie, each English hand</l>
+               <l>The Italian Method, and some French men's Miene;</l>
+               <l>May in the following Portraiture be ſeen.</l>
+            </lg>
+         </div>
+         <div xml:lang="fre" type="poem">
+            <pb facs="tcp:34939:9"/>
+            <head>
+               <q xml:lang="lat">Nil usu Penna sed Arte</q>
+            </head>
+            <p>
+               <figure>
+                  <figDesc>depiction of a right hand holding a quill pen which has written the poem</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>Pour bien former Courante &amp; Italique</l>
+               <l>Avec deux doigts la Plume Vous tiendre</l>
+               <l>Les autres trois ensemble Serrerez</l>
+               <l>Cest La Methode La Vray practique</l>
+            </lg>
+         </div>
+         <div type="writing_sample">
+            <pb facs="tcp:34939:10"/>
+            <head>
+               <q xml:lang="lat">Nullius boni ſine Socio<lb/> Iucunda est Poſseſsio</q>
+            </head>
+            <p>Learning and all manner of commendable Sciences are<lb/> Leſsened by concealing and augmented by Communication</p>
+            <p>Ambmcmdmemfmgmhmkmlmompmqmrmſmtmuvyz&amp;c</p>
+            <p>A B C D E F G H I K L M N O P Q R S T</p>
+         </div>
+         <div type="writing_sample">
+            <pb facs="tcp:34939:11"/>
+            <p>A a b c d d e e f f g g g g h h i k l m n o p p q r r<lb/> s s t v u w x y y z z ll ff ll mm nn pp rr tt uu</p>
+            <p>A A B C D E F G H H I K L M<lb/> M N O P P Q R S T U V W X Y Z</p>
+            <byline>Weſton Fecit</byline>
+         </div>
+         <div type="writing_sample">
+            <pb facs="tcp:34939:12"/>
+            <head>
+               <q xml:lang="lat">Dimidium facti<lb/> Qui bene cepit habet</q>
+            </head>
+            <p>Commendable Begining is commonly accounted<lb/> More then half the way to an Honnourable Ending.</p>
+            <byline>WESTON</byline>
+         </div>
+         <div type="writing_sample">
+            <pb facs="tcp:34939:13"/>
+            <p>A B C D E F G H I K L M<lb/> N O P Q R S T V W X Y Z</p>
+            <p>
+               <seg rend="decorInit">D</seg>ivine contemplation and Meditation upon<g ref="char:punc">▪</g>
+               <lb/> Gods moſt holy and Immaculate <abbr>commandm</abbr>
+               <lb/> are the Souls wings which mount her to a glimps of Heavenly bliſſ and immortal felicitie.</p>
+            <p>a b c d d e e f f g h h i k l l l m n o p q r r s s t v u y y z</p>
+            <p>Gods Immacculate commandments are of adminirable<lb/> efficacy both to inform mens Minds &amp; reform y<hi rend="sup">er</hi>. Manners</p>
+            <p>a. b. c. d. e. f. g. h. i. k. l. ll. m. m. n. n. o. p. q. r. s.s. st. t. v. u. w. x y. z. &amp;c.</p>
+            <byline>
+               <seg rend="decorInit">W</seg>eston Scripsit</byline>
+            <byline>Elder Sculpſit</byline>
+         </div>
+         <div type="writing_sample">
+            <pb facs="tcp:34939:14"/>
+            <head>
+               <figure>
+                  <figDesc>depiction of a bird, probably a dove,drawn with a calligraphy pen</figDesc>
+               </figure> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <figure>
+                  <figDesc>depiction of a bird, probably a dove, drawn with a calligraphy pen</figDesc>
+               </figure>
+            </head>
+            <p>Qui Serpentis Prudentiam in malis, Columbinae<lb/> Sinceritati cirea bona miscuerit, is neque Prudentiam<lb/> Sinet malignam fieri, Neque Simplicitatem Stolidam.</p>
+            <q>Be wiſe as Serpents and<lb/> Innocent as Doves.</q>
+            <p>
+               <figure>
+                  <figDesc>depiction of a serpent, drawn with a calligraphy pen</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <figDesc>depiction of a serpent, drawn with a calligraphy pen</figDesc>
+               </figure>
+            </p>
+            <byline>Weston</byline>
+         </div>
+         <div type="writing_sample">
+            <pb facs="tcp:34939:15"/>
+            <p>ALMIGHTY GOD Who is Master of al our time hath committed<lb/> Some moments thereof to the use and mannagement<lb/> of Mankinde Not to waste prodigally but imploy<lb/> proffitably To the Donours immortall Glorie<lb/> And their own Everlasting Good</p>
+            <byline>Tho: Weston</byline>
+         </div>
+         <div type="writing_sample">
+            <pb facs="tcp:34939:16"/>
+            <head>
+               <figure>
+                  <figDesc>depiction of a crown, drawn with a calligraphy pen and embellished with flourishes</figDesc>
+               </figure>
+            </head>
+            <head>
+               <q xml:lang="lat">FINIS CORONAT OPVS</q>
+            </head>
+            <p>If a Commendable Begining be more then Half<lb/> A Proportionate Ending must be more then all.<lb/> It is not the putting our hand to y<hi rend="sup">e</hi> Plow &amp; looking back;<lb/> But a Continued perseverance in weldoing y<hi rend="sup">t</hi> is crowned.</p>
+            <byline>WESTON <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>xit 1681</byline>
+         </div>
+         <div type="writing_sample">
+            <pb facs="tcp:34939:17"/>
+            <p>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ions of the bodie are nothing comparable to the<lb/> excellent qualities and indowments of the minde for<lb/> these are but the varnishes and shadowes of a meere<lb/> man but these ae the accomplishments of a wise man</p>
+            <byline>Thomas Weston</byline>
+         </div>
+         <div type="writing_sample">
+            <pb facs="tcp:34939:18"/>
+            <p>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> b b c c d d <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> e e f f f <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> g g h h i i k k ll ll m m n n o<lb/> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> p <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> q r r <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> s s s s ſ t t tt <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> v v u u w w x x y y y z &amp;c.</p>
+            <p> Religion is the <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ation of all morall Virtu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the<lb/>, the cement which<lb/> combines a Human Societie and the <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of<lb/> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> originall of all pious La<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+            </p>
+         </div>
+         <div type="writing_sample">
+            <pb facs="tcp:34939:19"/>
+            <head>Alp<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>bet of Italian Small letters.</head>
+            <p>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <byline>THOMAS WESTON</byline>
+         </div>
+         <div type="writing_sample">
+            <pb facs="tcp:34939:20"/>
+            <p>A A B B B C D D E<lb/> F F G H I K L M M<lb/> M N O P Q R R S T<lb/> T V W X Y Z</p>
+         </div>
+         <div type="writing_sample">
+            <pb facs="tcp:34939:21"/>
+            <p>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Caris<hi rend="sup">•me</hi> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> desiderie ardentiſſi<hi rend="sup">me</hi> che Sa<lb/> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ſſi<hi rend="sup">ma</hi> della tranquillita non e <gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>a <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> disimile<lb/> dal mi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>se fosse libera da i ligamenti discruitu es<lb/> da <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> obligationi <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>nge con la <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <hi rend="sup">ta</hi> di <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Sig</p>
+            <byline>Weston</byline>
+         </div>
+         <div type="writing_sample">
+            <pb facs="tcp:34939:22"/>
+            <head>All Il<hi rend="sup">mo</hi> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Sig<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <lb/> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Sig Car<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> Farnese</head>
+            <p>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Ill<hi rend="sup">ma</hi>
+            </p>
+            <p>Transcript ab originali Exemplari<lb/> Simonis Parisij per TG<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </p>
+            <byline>WESTON</byline>
+            <byline>
+               <abbr>Incis</abbr> Io Sturt</byline>
+         </div>
+         <div type="writing_sample">
+            <pb facs="tcp:34939:23"/>
+            <p>It is one of the easiest matters in the world to<lb/> Censure and Reprehend other mens Labours<lb/> But to perform that which is more accomplishd<lb/> In the same kinde may be found difficult</p>
+            <p>Aabcdefghiklmnopqrs<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uwxyz&amp;c</p>
+            <byline>Weston</byline>
+         </div>
+         <div type="writing_sample">
+            <pb facs="tcp:34939:24"/>
+            <figure>
+               <figDesc>depiction of a bird, drawn with a calligraphy pen</figDesc>
+            </figure>
+            <figure>
+               <figDesc>depiction of a bird, drawn with a calligraphy pen</figDesc>
+            </figure>
+            <p>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> r r y r n n' m i n r v n' w <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> &amp; <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> s s <g ref="char:cmbAbbrStroke">̄</g> z . : <g ref="char:punc">▪</g>
+               <lb/> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> c e c o c g g d d c q i t <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> r p l <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> b <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> h l k k l ſ t ſt ſz <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <lb/> i y r y y n m v u w a s <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> c c o g d q t p l b h k ſ ſt ſz</p>
+            <p>o i a b b c d d e e f g g h i l m n o p q r s t u x</p>
+            <p>A <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> a c g g c q c c e c d c d c e e s s s l l b l b l l l l ſ <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> t t<lb/> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> n r n' m n n n n r m v v w w w v i r r <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> y <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <byline>Weston</byline>
+         </div>
+         <div type="writing_sample">
+            <pb facs="tcp:34939:25"/>
+            <p>This Indenture<lb/> Between Witneſseth<lb/> To have Yielding &amp;<lb/> Provided In witnes</p>
+         </div>
+         <div type="writing_sample">
+            <pb facs="tcp:34939:26"/>
+            <p>A B C D E F G H<lb/> I K L M N O P Q<lb/> R S T W X Y Z</p>
+            <byline>Westonius in imitatione Cockeri</byline>
+         </div>
+         <div type="writing_sample">
+            <pb facs="tcp:34939:27"/>
+            <p>The Diſsection or Breakes of the Exemplifying Court Alphabet</p>
+            <p>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <p>Which gives also y<hi rend="sup">e</hi> forme of y<hi rend="sup">e</hi> smaller Court Letters</p>
+            <p>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <byline>Weſton</byline>
+         </div>
+         <div type="writing_sample">
+            <pb facs="tcp:34939:28"/>
+            <p>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <p>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <p>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <p>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <byline>Weſton</byline>
+         </div>
+         <div type="writing_sample">
+            <pb facs="tcp:34939:29"/>
+            <head>
+               <seg rend="decorInit">C</seg>arolus <seg rend="decorInit">S</seg>ecundus</head>
+            <p>Dei <abbr>gra</abbr> 
+               <abbr>Angl</abbr> 
+               <abbr>Scot</abbr> F<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> &amp; <abbr>Hibnie</abbr> Rex fidei Defenſor &amp;c Omiꝰ ad<lb/> quos <g ref="char:abpre">p̄</g>ſentes <abbr>hc</abbr> ꝑueniu<g ref="char:cmbAbbrStroke">̄</g>t S<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>m S<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>tis <abbr>qd</abbr> nos de <abbr>grt</abbr> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <abbr>S<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>tli</abbr> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ex <abbr>tta</abbr> Scientia &amp; <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> motu <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> remittimꝰ &amp; <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+            </p>
+            <p>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <figure>
+               <figDesc>depiction of an animal, made with a calligraphy pen</figDesc>
+            </figure>
+            <figure>
+               <figDesc>depiction of an animal, made with a calligraphy pen</figDesc>
+            </figure>
+            <byline>Weston Scripsit</byline>
+         </div>
+         <div type="writing_sample">
+            <pb facs="tcp:34939:30"/>
+            <div type="part">
+               <head>B<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lgica</head>
+               <p>Socrates hebbende gheſalueert een<lb/> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Welck<lb/> Socrates hem <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </p>
+               <p>A a b c d e F f g h i k l ll m n o p q r r ſ s s t v w y y z &amp;</p>
+            </div>
+            <div type="part">
+               <head>Germanica</head>
+               <p>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </p>
+               <p>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </p>
+            </div>
+            <byline>Weston</byline>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:34939:31"/>
+            <head>
+               <figure>
+                  <figDesc>depiction of an angel, made with a calligraphy pen</figDesc>
+               </figure>
+            </head>
+            <head>A Panegiric on the Art of Fair Writing</head>
+            <lg>
+               <l>Fair Writing is a curious Art,</l>
+               <l>Which we do not Mechanic call,</l>
+               <l>Nor may we tern it Liberall—</l>
+               <l>Yet ſuch as doth them both to men impart.</l>
+               <l>Both do from thence begining take,</l>
+               <l>Both do thereby their progres make.</l>
+            </lg>
+            <lg>
+               <l>Writing we do no Science finde</l>
+               <l>And yet thereof we truly Say,</l>
+               <l>Tis to all Sciences the way:</l>
+               <l>From thence comes Illustration to y<hi rend="sup">e</hi> mind;</l>
+               <l>Invented to delight the eyes,</l>
+               <l>And despence hidden Misteries.</l>
+            </lg>
+            <lg>
+               <l>Writing the Muses Register.</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Doctrine downwards does convey</l>
+               <l>And Nations History display;</l>
+               <l>The Memories chief ſtorehouse doth aſsist her</l>
+               <l>To Cultivate each Facultie,</l>
+               <l>And perfect Ingenuitie.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:34939:31"/>
+               <l>This Art to man hath God made known,</l>
+               <l>This Art have wiſe men much deſir'd,</l>
+               <l>To this though many have aspir'd;</l>
+               <l>Yet few haue made it perfectly their own;</l>
+               <l>This th' Ornament of Providence;</l>
+               <l>And of Humane Inteligence.</l>
+            </lg>
+            <lg>
+               <l>Tis Writing doth Facilitate,</l>
+               <l>Commerce and all Societie</l>
+               <l>Is jointed and made strong thereby</l>
+               <l>Friends absent hereby do Communicate,</l>
+               <l>Each Secret thought and Sentiment,</l>
+               <l>Each private purpoſe and Intent.</l>
+            </lg>
+            <lg>
+               <l>This Art gives Fame Celebritie,</l>
+               <l>To Iustice Splender and Renown,</l>
+               <l>To Virtue Glorie as its Crown;</l>
+               <l>The Ligament of Civile Polecie</l>
+               <l>Which covers Secrets as w<hi rend="sup">th</hi> night,</l>
+               <l>And works of Darknes brings to light.</l>
+            </lg>
+            <byline>Weston</byline>
+         </div>
+      </body>
+   </text>
+</TEI>
